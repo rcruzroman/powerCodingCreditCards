@@ -1,4 +1,4 @@
-# powerCodingCreditCards
+# Power Coding CreditCards Challenge
 
 Coding challenge
 
